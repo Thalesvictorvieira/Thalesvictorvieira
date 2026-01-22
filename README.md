@@ -1,7 +1,8 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="Banner animado" />
+<img width="1590" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/acd4a322-0a30-4b69-8d37-64b67f98924b" />
 
-# 👋 Olá, eu sou o Thales Vieira 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/parrot.gif" width="60"/>
+
 
 💻 Desenvolvedor e estudante de Ciência da Computação  
 🐧 Usuário de Linux e entusiasta de tecnologia  
