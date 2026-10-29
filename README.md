@@ -52,12 +52,9 @@ Sou desenvolvedor e estudante de **Ciência da Computação**, apaixonado por te
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO">
+<a href="https://www.linkedin.com/in/thales-victor-497337346O">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
+
 <a href="https://github.com/Thalesvictorvieira">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
