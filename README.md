@@ -50,6 +50,3 @@
 
 ---
 
-## 📫 Contato
-
-- GitHub: [github.com/Thalesvictorvieira](https://github.com/Thalesvictorvieira)
