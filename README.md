@@ -1,52 +1,69 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="Banner animado" />
-<img width="1590" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/acd4a322-0a30-4b69-8d37-64b67f98924b" />
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/parrot.gif" width="60"/>
+<img src="https://github.com/user-attachments/assets/acd4a322-0a30-4b69-8d37-64b67f98924b" alt="Banner" width="100%" />
 
+<a href="https://github.com/Thalesvictorvieira">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Entusiasta+de+Linux+e+automa%C3%A7%C3%A3o;Back-end+%26+Sistemas" alt="Typing SVG" />
+</a>
 
-💻 Desenvolvedor e estudante de Ciência da Computação  
-🐧 Usuário de Linux e entusiasta de tecnologia  
+<br/>
 
----
+![Python](https://img.shields.io/badge/Python-Principal-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Usu%C3%A1rio-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Aprendendo_sempre-7AA2F7?style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=Thalesvictorvieira&label=Visitas&color=7AA2F7&style=for-the-badge)
 
-## 📊 Linguagens mais utilizadas
-
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesvictorvieira&layout=donut&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
-</div>
-
-
-
-[(https://skillicons.dev/icons?i=py,c,cpp,postgres,linux,html,js,css)](https://skillicons.dev)
-
-
-<div >
-  <img src=https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966 height="42" width="42"> 
-  <img src=https://camo.githubusercontent.com/2b5dccad44d0508888b9c7bd80c92b385f5c6a930cadb1a413aa4b04b7e661bd/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f736369656e6365706172726f742e676966
-    height="42" width="42"> 
-  <img src=https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966
-    height="42" width="42"> 
-  <img src=https://camo.githubusercontent.com/1632ebce5380799ed72c227cdddfb8e5eb4d5a3386e8f109e05ca54d8931b470/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f737461626c65706172726f742e676966
-    height="42" width="42"> 
-  <img src=https://camo.githubusercontent.com/5a9282c62a207a282bc157a0ed3bea391cbe9bd0539491aab91fe1ed92547981/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966
-    height="42" width="42">
-  
 </div>
 
 ---
 
-## 📌 Sobre mim 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/parrots.gif" width="120"/>
+## 👋 Sobre mim
 
-- 🔧 Manutenção de computadores (hardware e software)
-- 🐍 Python como linguagem principal
-- 📚 Estudando C, C++ e JavaScript
-- 🛠️ Interesse em back-end, automação e sistemas
+Sou desenvolvedor e estudante de **Ciência da Computação**, apaixonado por tecnologia e por entender como os sistemas funcionam por baixo dos panos. Uso **Linux** no dia a dia e tenho experiência prática com manutenção de computadores, tanto em **hardware** quanto em **software**.
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/parrot-dance.gif" width="80"/>
+- 🐍 **Python** é minha linguagem principal
+- 📚 Estudando **C**, **C++** e **JavaScript**
+- 🛠️ Foco em **back-end**, **automação** e **sistemas**
+- 🔧 Experiência em montagem, diagnóstico e manutenção de computadores
+- 🌱 Sempre aprendendo e construindo projetos para evoluir
 
 ---
 
+## 🧰 Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,bash,linux,git,github,vscode&theme=dark" alt="Tecnologias" />
+
+</div>
+
+| Categoria | Tecnologias |
+| :-- | :-- |
+| **Linguagens** | Python · C · C++ · JavaScript |
+| **Sistemas** | Linux · Shell Script |
+| **Ferramentas** | Git · GitHub · VS Code |
+| **Áreas de interesse** | Back-end · Automação · Sistemas · Hardware |
+
+
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:seuemail@exemplo.com">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+<a href="https://github.com/Thalesvictorvieira">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer" alt="Rodapé" width="100%" />
+
+</div>
